@@ -1,0 +1,8 @@
+F:\Repository\Triangle\trunk\TriangleTDD\TriangleTDD\bin\Debug\TriangleTDD.exe
+F:\Repository\Triangle\trunk\TriangleTDD\TriangleTDD\bin\Debug\TriangleTDD.pdb
+F:\Repository\Triangle\trunk\TriangleTDD\TriangleTDD\obj\Debug\TriangleTDD.csprojResolveAssemblyReference.cache
+F:\Repository\Triangle\trunk\TriangleTDD\TriangleTDD\obj\Debug\TriangleTDD.Form1.resources
+F:\Repository\Triangle\trunk\TriangleTDD\TriangleTDD\obj\Debug\TriangleTDD.Properties.Resources.resources
+F:\Repository\Triangle\trunk\TriangleTDD\TriangleTDD\obj\Debug\TriangleTDD.csproj.GenerateResource.Cache
+F:\Repository\Triangle\trunk\TriangleTDD\TriangleTDD\obj\Debug\TriangleTDD.exe
+F:\Repository\Triangle\trunk\TriangleTDD\TriangleTDD\obj\Debug\TriangleTDD.pdb
