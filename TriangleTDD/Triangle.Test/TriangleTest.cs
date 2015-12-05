@@ -14,5 +14,13 @@ namespace TriangleClass.Test
             int result = t.squareNum(2);
             Assert.AreEqual(result, 4);
         }
+
+        [TestMethod]
+        public void SquareRootAInt()
+        {
+            Triangle t = new Triangle();
+            double result = t.squareRootNum(4);
+            Assert.AreEqual(result, 2);
+        }
     }
 }
