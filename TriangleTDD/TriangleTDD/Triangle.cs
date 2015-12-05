@@ -13,5 +13,12 @@ namespace TriangleTDD
             output = input * input;
             return output;
         }
+
+        public double squareRootNum(int input)
+        {
+            double output = 0;
+            output = Math.Sqrt(input);
+            return output;
+        }
     }
 }
