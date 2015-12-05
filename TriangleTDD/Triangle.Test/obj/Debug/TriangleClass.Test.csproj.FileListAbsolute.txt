@@ -1,0 +1,7 @@
+F:\Repository\Triangle\trunk\TriangleTDD\Triangle.Test\obj\Debug\TriangleClass.Test.csprojResolveAssemblyReference.cache
+F:\Repository\Triangle\trunk\TriangleTDD\Triangle.Test\bin\Debug\Triangle.Test.dll
+F:\Repository\Triangle\trunk\TriangleTDD\Triangle.Test\bin\Debug\Triangle.Test.pdb
+F:\Repository\Triangle\trunk\TriangleTDD\Triangle.Test\bin\Debug\TriangleTDD.exe
+F:\Repository\Triangle\trunk\TriangleTDD\Triangle.Test\bin\Debug\TriangleTDD.pdb
+F:\Repository\Triangle\trunk\TriangleTDD\Triangle.Test\obj\Debug\Triangle.Test.dll
+F:\Repository\Triangle\trunk\TriangleTDD\Triangle.Test\obj\Debug\Triangle.Test.pdb
