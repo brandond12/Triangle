@@ -7,6 +7,11 @@ namespace TriangleTDD
 {
     public class Triangle
     {
-
+        public int squareNum(int input)
+        {
+            int output = 0;
+            output = input * input;
+            return output;
+        }
     }
 }
