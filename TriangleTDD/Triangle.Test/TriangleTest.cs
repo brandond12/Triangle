@@ -22,5 +22,13 @@ namespace TriangleClass.Test
             double result = t.squareRootNum(4);
             Assert.AreEqual(result, 2);
         }
+
+        [TestMethod]
+        public void GetHypotenuse()
+        {
+            Triangle t = new Triangle();
+            double result = t.getHypotenuse(3, 4);
+            Assert.AreEqual(result, 5);
+        }
     }
 }
