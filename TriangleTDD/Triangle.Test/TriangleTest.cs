@@ -10,16 +10,14 @@ namespace TriangleClass.Test
         [TestMethod]
         public void SquareAInt()
         {
-            Triangle t = new Triangle();
-            int result = t.squareNum(2);
+            int result = Triangle.squareNum(2);
             Assert.AreEqual(result, 4);
         }
 
         [TestMethod]
         public void SquareRootAInt()
         {
-            Triangle t = new Triangle();
-            double result = t.squareRootNum(4);
+            double result = Triangle.squareRootNum(4);
             Assert.AreEqual(result, 2);
         }
 
