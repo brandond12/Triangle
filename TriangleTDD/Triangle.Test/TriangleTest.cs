@@ -32,7 +32,7 @@ namespace TriangleClass.Test
         public void TriangleArea()
         {
             double result = Triangle.triangleleArea(3, 4);
-            Assert.AreEqual(result, 8);
+            Assert.AreEqual(result, 6);
         }
     }
 }
