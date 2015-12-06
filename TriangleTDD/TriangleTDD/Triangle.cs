@@ -21,7 +21,7 @@ namespace TriangleTDD
             return output;
         }
 
-        public double getHypotenuse(int a, int b)
+        public static double getHypotenuse(int a, int b)
         {
             double output = 0;
             output = Triangle.squareNum(a) + Triangle.squareNum(b);

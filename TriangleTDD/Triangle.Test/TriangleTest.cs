@@ -24,9 +24,15 @@ namespace TriangleClass.Test
         [TestMethod]
         public void GetHypotenuse()
         {
-            Triangle t = new Triangle();
-            double result = t.getHypotenuse(3, 4);
+            double result = Triangle.getHypotenuse(3, 4);
             Assert.AreEqual(result, 5);
+        }
+
+        [TestMethod]
+        public void TriangleArea()
+        {
+            double result = Triangle.triangleleArea(3, 4);
+            Assert.AreEqual(result, 8);
         }
     }
 }
