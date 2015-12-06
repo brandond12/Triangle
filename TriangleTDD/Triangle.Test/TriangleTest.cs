@@ -48,5 +48,12 @@ namespace TriangleClass.Test
         {
             Triangle.squareNum(-2);
         }
+
+        [TestMethod]
+        [ExpectedException(typeof(NegitiveNumber))]
+        public void SquareRootAIntException()
+        {
+            Triangle.squareRootNum(-2);
+        }
     }
 }
