@@ -28,5 +28,12 @@ namespace TriangleTDD
             output = Triangle.squareRootNum((int)output);
             return output;
         }
+
+        public static double triangleleArea(int a, int b)
+        {
+            double output = 0;
+            output = a * b * 0.5;
+            return output;
+        }
     }
 }
