@@ -35,5 +35,13 @@ namespace TriangleTDD
             output = a * b * 0.5;
             return output;
         }
+
+        public static double findAngle(int a, int b)
+        {
+            double output = 0;
+            output = 360 - a - b;
+            return output;
+        }
+        
     }
 }
