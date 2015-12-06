@@ -20,6 +20,10 @@ namespace TriangleTDD
 
         public static double squareRootNum(int input)
         {
+            if (input < 0)
+            {
+                throw new NegitiveNumber();
+            }
             double output = 0;
             output = Math.Sqrt(input);
             return output;
