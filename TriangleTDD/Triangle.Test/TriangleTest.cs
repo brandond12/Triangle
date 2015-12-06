@@ -41,5 +41,12 @@ namespace TriangleClass.Test
             double result = Triangle.findAngle(100, 200);
             Assert.AreEqual(result, 60);
         }
+
+        [TestMethod]
+        [ExpectedException(typeof(NegitiveNumber))]
+        public void SquareAIntException()
+        {
+            Triangle.squareNum(-2);
+        }
     }
 }
