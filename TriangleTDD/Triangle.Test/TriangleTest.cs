@@ -34,5 +34,12 @@ namespace TriangleClass.Test
             double result = Triangle.triangleleArea(3, 4);
             Assert.AreEqual(result, 6);
         }
+
+        [TestMethod]
+        public void FindAngle()
+        {
+            double result = Triangle.findAngle(100, 200);
+            Assert.AreEqual(result, 60);
+        }
     }
 }
