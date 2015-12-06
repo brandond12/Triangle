@@ -9,6 +9,10 @@ namespace TriangleTDD
     {
         public static int squareNum(int input)
         {
+            if(input < 0)
+            {
+                throw new NegitiveNumber();
+            }
             int output = 0;
             output = input * input;
             return output;
